@@ -1,16 +1,23 @@
-# 42-projects
-Summary page for 42-School Projects
+# 42-projects 📌
+Summary page for my 42-School Projects
 
-## What is 42 school?
+## What is 42 school 🚀
 - 42 is a peer-learning educational institution supported by tech companies.
 - Originally from Paris, and the Berlin campus was founded in 2021. [42 Berlin](https://42berlin.de/)
 - Tuition is completely free and everyone can get in
   - after finishing and passing 4 weeks long full time project called [Piscine](https://42berlin.de/de/the-piscine/)
 
-## what did I do in 42
-![screenshot of progress](https://github.com/yuki-jinnouchi/42-projects/blob/main/Screenshot%202024-07-01%20at%2022.28.27.png)
+### Curriculum 📆
+- After Piscine, students can enter 42, and after Core Curriculum, students can learn without time limitations.
+- there is no graduation, so it's completely free to stop learning when students are ready to work.
+- [42 Curriculum](https://42berlin.de/de/curriculum-42-berlin/)
+  - Piscine (4 weeks)
+  - Core Curriculum (12-18 months)
+  - First Paid Internship (4-6 months)
+  - Specialisation (Up to 5 years)
+  - Final Paid Internship
 
-## logs
+## What did I do in 42 so far (till July 2024) 📝
 - Piscine
   - Learn C programming by making libc functions and some other small projects
 - Level 0
@@ -27,7 +34,11 @@ Summary page for 42-School Projects
   - [minishell](https://github.com/moojig12/42-minishell) with [Naraa](https://github.com/moojig12): Remake the original bash-like shell
   - Philosopher: Learn about threading a process using mutex
 
-## references
+FYI: subject pdfs [42-Subjects](https://github.com/rphlr/42-Subjects)
+
+![screenshot of progress](https://github.com/yuki-jinnouchi/42-projects/blob/main/Screenshot%202024-07-01%20at%2022.28.27.png)
+
+## references 📎
 - [42 Berlin](https://42berlin.de/)
 - [Piscine](https://42berlin.de/de/the-piscine/)
 - [42 Curriculum](https://42berlin.de/de/curriculum-42-berlin/)
