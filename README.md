@@ -8,6 +8,8 @@ Summary page for 42-School Projects
   - after finishing and passing 4 weeks long full time project called [Piscine](https://42berlin.de/de/the-piscine/)
 
 ## what did I do in 42
+![screenshot of progress](https://github.com/yuki-jinnouchi/42-projects/blob/main/Screenshot%202024-07-01%20at%2022.28.27.png | width=100)
+
 
 
 
