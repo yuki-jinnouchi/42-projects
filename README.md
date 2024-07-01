@@ -10,10 +10,6 @@ Summary page for 42-School Projects
 ## what did I do in 42
 ![screenshot of progress](https://github.com/yuki-jinnouchi/42-projects/blob/main/Screenshot%202024-07-01%20at%2022.28.27.png)
 
-
-
-
-
 ## logs
 - Piscine
   - Libft: Learn C programming by making libc functions and some other small projects
@@ -25,10 +21,10 @@ Summary page for 42-School Projects
   - Born2beroot: Learn and train about Linux through installation and setup in VirtualBox
 - Level 2
   - pipex: Create a pipe program for command line
-  - push_swap: Learn the algorithm by sorting numbers by push-swap between 2 stacks
-  - so_long: Create a small 2D game similar to Pokemon's field using the MiniLibX library
+  - [push_swap](https://github.com/yuki-jinnouchi/42-push_swap): Learn the algorithm by sorting numbers by push-swap between 2 stacks
+  - [so_long](https://github.com/yuki-jinnouchi/42-so_long): Create a small 2D game similar to Pokemon's field using the MiniLibX library
 - Level 3
-  - minishell: Remake the original bash-like shell
+  - [minishell](https://github.com/moojig12/42-minishell) with [Naraa](https://github.com/moojig12): Remake the original bash-like shell
   - Philosopher: Learn about threading a process using mutex
 
 ## references
