@@ -12,7 +12,7 @@ Summary page for 42-School Projects
 
 ## logs
 - Piscine
-  - Libft: Learn C programming by making libc functions and some other small projects
+  - Learn C programming by making libc functions and some other small projects
 - Level 0
   - Libft: Create libraries includes libc and other functions
 - Level 1
