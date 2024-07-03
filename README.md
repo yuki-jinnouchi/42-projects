@@ -21,7 +21,7 @@ Summary page for my 42-School Projects
 - Piscine
   - Learn C programming by making libc functions and some other small projects
 - Level 0
-  - Libft: Create libraries includes libc and other functions
+  - [Libft](https://github.com/yuki-jinnouchi/42-libft): Create libraries includes libc and other functions
 - Level 1
   - ft_printf: Remake original printf()
   - get_next_line: Create a function that extracts each line from a text when executed
