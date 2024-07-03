@@ -27,7 +27,7 @@ Summary page for my 42-School Projects
   - get_next_line: Create a function that extracts each line from a text when executed
   - Born2beroot: Learn and train about Linux through installation and setup in VirtualBox
 - Level 2
-  - pipex: Create a pipe program for command line
+  - [pipex](https://github.com/yuki-jinnouchi/42-pipex): Create a pipe program for command line
   - [push_swap](https://github.com/yuki-jinnouchi/42-push_swap): Learn the algorithm by sorting numbers by push-swap between 2 stacks
   - [so_long](https://github.com/yuki-jinnouchi/42-so_long): Create a small 2D game similar to Pokemon's field using the MiniLibX library
 - Level 3
