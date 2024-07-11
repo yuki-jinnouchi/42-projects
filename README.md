@@ -32,7 +32,7 @@ Summary page for my 42-School Projects
   - [so_long](https://github.com/yuki-jinnouchi/42-so_long): Create a small 2D game similar to Pokemon's field using the MiniLibX library
 - Level 3
   - [minishell](https://github.com/moojig12/42-minishell) with [Naraa](https://github.com/moojig12): Remake the original bash-like shell
-  - Philosopher: Learn about threading a process using mutex
+  - [Philosopher](https://github.com/yuki-jinnouchi/42-philosopher): Learn about threading a process using mutex
 
 FYI: subject pdfs [42-Subjects](https://github.com/rphlr/42-Subjects)
 
