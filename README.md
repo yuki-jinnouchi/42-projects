@@ -34,7 +34,7 @@ Summary page for my 42-School Projects
   - [minishell](https://github.com/moojig12/42-minishell) with [Naraa](https://github.com/moojig12): Remake the original bash-like shell
   - [Philosopher](https://github.com/yuki-jinnouchi/42-philosopher): Learn about threading a process using mutex
 - Level 4
-  - [42-cpp_module_00](https://github.com/yuki-jinnouchi/42-cpp_module_00): C++ module :Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff
+  - [42-cpp_module_00](https://github.com/yuki-jinnouchi/42-cpp_module_00): C++ module :Learn basics of C++ like classes, member functions, stdio streams...
   - 42-cpp_module_01: C++ module :Memory allocation, pointers to members, references, switch statement
   - 42-cpp_module_02: C++ module :Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form
   - 42-cpp_module_03: C++ module :Inheritance
@@ -42,6 +42,7 @@ Summary page for my 42-School Projects
   - NetPractice
   - cub3d
   - miniRT
+
 FYI: subject pdfs [42-Subjects](https://github.com/rphlr/42-Subjects)
 
 ![screenshot of progress](https://github.com/yuki-jinnouchi/42-projects/blob/main/graph_2024-07-18.png)
