@@ -1,15 +1,15 @@
-# 42-projects 📌
+# 📌 42-projects
 
 Summary page for my 42-School Projects
 
-## What is 42 school 🚀
+## 🚀 What is 42 school
 
 - 42 is a peer-learning educational institution supported by tech companies.
 - Originally from Paris, and the Berlin campus was founded in 2021. [42 Berlin](https://42berlin.de/)
 - Tuition is completely free and everyone can get in
   - after finishing and passing 4 weeks long full time project called [Piscine](https://42berlin.de/de/the-piscine/)
 
-### Curriculum 📆
+### 📆 Curriculum
 
 - After Piscine, students can enter 42, and after Core Curriculum, students can learn without time limitations.
 - there is no graduation, so it's completely free to stop learning when students are ready to work.
@@ -20,7 +20,7 @@ Summary page for my 42-School Projects
   - Specialisation (Up to 5 years)
   - Final Paid Internship
 
-## What did I do in 42 so far (till July 2025) 📝
+## 📝 What did I do in 42 so far (till July 2025)
 
 If you're 42 student, just check [my intra](https://profile.intra.42.fr/users/yjinnouc)(yjinnouc)
 
@@ -35,7 +35,7 @@ Learned C programming fundamentals by implementing basic functions and data stru
 
 ---
 
-### Level 0
+### ✅ Level 0
 
 **[Libft](https://github.com/yuki-jinnouchi/42-libft)** - *Personal C Library*  
 **Skills:** C programming, memory management, string manipulation, linked lists
@@ -48,7 +48,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 ---
 
-### Level 1
+### ✅ Level 1
 
 **ft_printf** - *Custom printf Implementation*  
 **Skills:** Variadic functions, format specifiers, type conversion
@@ -61,7 +61,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 ---
 
-### Level 2
+### ✅ Level 2
 
 **[pipex](https://github.com/yuki-jinnouchi/42-pipex)** - *Unix Pipe Simulation*  
 **Skills:** Process management, pipes, file descriptors, system calls
@@ -76,7 +76,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 ---
 
-### Level 3
+### ✅ Level 3
 
 **[minishell](https://github.com/moojig12/42-minishell)** - *Shell Implementation* (with [Naraa](https://github.com/moojig12))
 **Skills:** Parsing, process management, signal handling, built-in commands
@@ -88,7 +88,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 ---
 
-### Level 4
+### ✅ Level 4
 
 **C++ Module Series (00-04):**
 
@@ -111,7 +111,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 ---
 
-### Level 5
+### ✅ Level 5
 
 **C++ Module Series (05-09):**
 
@@ -134,7 +134,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 ---
 
-### Level 6
+### ✅ Level 6
 
 **ft_transcendence** - *Full-Stack Web Application*  
 **Skills:** Full-stack development, real-time communication, game development, user authentication
@@ -148,7 +148,7 @@ FYI: subject pdfs [42-Subjects](https://github.com/rphlr/42-Subjects)
 
 ![screenshot of progress](https://github.com/yuki-jinnouchi/42-projects/blob/main/graph_2025-07-03.png)
 
-## references 📎
+## 📎 references
 
 - [42 Berlin](https://42berlin.de/)
 - [Piscine](https://42berlin.de/de/the-piscine/)
