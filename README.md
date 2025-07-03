@@ -1,13 +1,16 @@
 # 42-projects 📌
+
 Summary page for my 42-School Projects
 
 ## What is 42 school 🚀
+
 - 42 is a peer-learning educational institution supported by tech companies.
 - Originally from Paris, and the Berlin campus was founded in 2021. [42 Berlin](https://42berlin.de/)
 - Tuition is completely free and everyone can get in
   - after finishing and passing 4 weeks long full time project called [Piscine](https://42berlin.de/de/the-piscine/)
 
 ### Curriculum 📆
+
 - After Piscine, students can enter 42, and after Core Curriculum, students can learn without time limitations.
 - there is no graduation, so it's completely free to stop learning when students are ready to work.
 - [42 Curriculum](https://42berlin.de/de/curriculum-42-berlin/)
@@ -53,7 +56,6 @@ Created my own implementation of essential C standard library functions (strlen,
 **get_next_line** - *File Reading Function*  
 **Skills:** File I/O, buffer management, static variables
 
-
 **Born2beroot** - *System Administration*  
 **Skills:** Linux administration, virtualization, security, shell scripting
 
@@ -70,7 +72,7 @@ Created my own implementation of essential C standard library functions (strlen,
 **[so_long](https://github.com/yuki-jinnouchi/42-so_long)** - *2D Game Development*  
 **Skills:** Graphics programming, event handling, game logic, MiniLibX
 
-**Exam Rank 02** - Reimplement strlen, strdup(), strcpy(), strdup(), atoi()
+**Exam Rank 02** - Reimplement strlen(), strdup(), strcpy(), strdup(), atoi()
 
 ---
 
@@ -107,6 +109,8 @@ Created my own implementation of essential C standard library functions (strlen,
 
 **Exam Rank 04** - Reinprement micro version of shell
 
+---
+
 ### Level 5
 
 **C++ Module Series (05-09):**
@@ -137,6 +141,7 @@ Created my own implementation of essential C standard library functions (strlen,
 
 **Exam Rank 06** - Implement mini_serv, a simple multi-client TCP chat server
 
+---
 </details>
 
 FYI: subject pdfs [42-Subjects](https://github.com/rphlr/42-Subjects)
