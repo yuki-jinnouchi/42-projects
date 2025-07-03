@@ -25,7 +25,7 @@ Summary page for my 42-School Projects
 If you're 42 student, just check [my intra](https://profile.intra.42.fr/users/yjinnouc)(yjinnouc)
 
 <details>
-<summary>Click to expand full project list with descriptions</summary>
+<summary>👉 Click to expand full project list with descriptions</summary>
 
 ### 🏊‍♂️ Piscine (Entry Selection)
 
