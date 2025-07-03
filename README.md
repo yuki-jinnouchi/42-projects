@@ -19,6 +19,8 @@ Summary page for my 42-School Projects
 
 ## What did I do in 42 so far (till July 2025) 📝
 
+If you're 42 student, just check [my intra](https://profile.intra.42.fr/users/yjinnouc)(yjinnouc)
+
 <details>
 <summary>Click to expand full project list with descriptions</summary>
 
